@@ -1,0 +1,13 @@
+{
+  "name": "hello_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Jose Loureiro a2013062145@isec.pt",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
