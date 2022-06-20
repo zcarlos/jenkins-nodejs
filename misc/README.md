@@ -12,4 +12,7 @@ https://www.jenkins.io/doc/book/pipeline/
 ### Configuring jenkins pipeline path to access a JenkinsFile on a github subfolder
 
 - Project pipeline, go to Configure. Select Pipeline tab, as shown in the image below:
-images/pipeline 01.png
+![](images/pipeline%2001.png)
+![](images/pipeline%2002.png)
+- Configure JenkinsFile github id, as shown in the image below:
+![](images/github_id.png)
